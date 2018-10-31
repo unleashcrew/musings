@@ -45,15 +45,15 @@
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1540950978263,
             "changeTime": 1540950978263,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -285,10 +285,10 @@
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 186,
-            "modifiedTime": 1540951116374,
-            "changeTime": 1540951116374,
-            "contentHash": "31773d38d83759ee0532969b72ac78768ada72f2"
+            "size": 201,
+            "modifiedTime": 1540951225850,
+            "changeTime": 1540951225850,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
         }
     ],
     [
@@ -944,131 +944,131 @@
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1540950978273,
             "changeTime": 1540950978273,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1540950978271,
             "changeTime": 1540950978271,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1540951025047,
             "changeTime": 1540951025047,
-            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1540950978266,
             "changeTime": 1540950978266,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9"
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1540951086941,
             "changeTime": 1540951086941,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1540950978273,
             "changeTime": 1540950978273,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1540950978270,
             "changeTime": 1540950978270,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 387,
             "modifiedTime": 1540951055961,
             "changeTime": 1540951055961,
-            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1540950978268,
             "changeTime": 1540950978268,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1540950978270,
             "changeTime": 1540950978270,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
