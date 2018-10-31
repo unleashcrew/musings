@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540945557894,
+            "changeTime": 1540945557894,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540945557883,
+            "changeTime": 1540945557883,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1540948363020,
+            "changeTime": 1540948363020,
+            "contentHash": "f440de1ff392aa8441f99235374c53c458c599eb"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1540945538267,
+            "changeTime": 1540945538267,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1540945999091,
+            "changeTime": 1540945999091,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1540946393973,
+            "changeTime": 1540946393973,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1540946393988,
+            "changeTime": 1540946393988,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1540946394003,
+            "changeTime": 1540946394003,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1540946394008,
+            "changeTime": 1540946394008,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1540946394013,
+            "changeTime": 1540946394013,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1540946394015,
+            "changeTime": 1540946394015,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540946393973,
+            "changeTime": 1540946393973,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540946393970,
+            "changeTime": 1540946393970,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540946393970,
+            "changeTime": 1540946393970,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1540946394013,
+            "changeTime": 1540946394013,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540946394015,
+            "changeTime": 1540946394015,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540948363049,
+            "changeTime": 1540948363049,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1540948394188,
+            "changeTime": 1540948394188,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+        }
+    ],
+    [
+        "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tundemosaku/Documents/sfdc/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1540948363049,
+            "changeTime": 1540948363049,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
+        }
+    ]
+]
